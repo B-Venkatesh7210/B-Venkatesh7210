@@ -21,16 +21,13 @@
 
 
 
-- 🔭 I’m currently working on Findkrr.
-- 🌱 I’m currently trying automation stuff with python.
+- 🔭 I’m currently working on Flutter and small projects.
+- 🌱 I’m currently learning new skills like .NET, JS, CSS, HTML.
 - 🤔 I’m looking to work more on apps with custom backend using nodejs or deno.
-- 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
+- 📫 How to reach me: [Twitter - @_Venky_VENMUS_ (https://twitter.com/_Venky_VENMUS_) , [Linkdein - @Venkatesh_VENMUS_(https://www.linkedin.com/in/venkatesh-venmus-b0b839121/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love hiphop music.
+- ⚡ Fun fact: I love hiphop music, rapping, writing, poetry, quick-learning.
 
-[![Twitter: aniketsindhu1](https://img.shields.io/twitter/follow/aniketsindhu1?style=social)](https://twitter.com/aniketsindhu1)
-[![Linkedin: aniketsindhu](https://img.shields.io/badge/aniketsindhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-sindhu-1653b1132/)](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
-[![GitHub AniketSindhu](https://img.shields.io/github/followers/aniketsindhu?label=follow&style=social)](https://github.com/aniketsindhu)
 
 
 **Languages and Tools:**  
@@ -46,22 +43,3 @@
 
 ---
 
-<a href="https://github.com/aniketsindhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/aniketsindhu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsindhu&show_icons=true&theme=dark&line_height=27" alt="Aniket's github stats"/>
-</a>
-<a href="https://github.com/AniketSindhu/mask_detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Mask_Detector&theme=dark" />
-
-</a>
-<a href="https://github.com/AniketSindhu/Gamiac">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Gamiac&theme=dark" />
-</a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
