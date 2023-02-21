@@ -25,7 +25,6 @@
 - 🌱 I’m currently learning new skills like Blockchain Development, Solidity.
 - 🤔 I’m looking to work more on apps with custom backend using MongoDB.
 - 📫 How to reach me: [Twitter - @_Venky_VENMUS_ (https://twitter.com/_Venky_VENMUS_) , [Linkdein - @Venkatesh_VENMUS_(https://www.linkedin.com/in/venkatesh-venmus-b0b839121/)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love hiphop music, rapping, writing, poetry, quick-learning.
 
 
