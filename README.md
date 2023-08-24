@@ -1,40 +1,45 @@
-## Hola, I'm Venkatesh 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsindhu&label=Views&color=green&style=plastic" alt="aniketsindhu" /> </p>
-<a href="https://twitter.com/_Venky_VENMUS_">
-  <img align="left" alt="Aniket's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+## 👋 Hey, I'm Venkatesh
+
+<a  href="https://www.venmus.com/"><img src="https://img.shields.io/badge/venmus.com-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: venkumj1234@gmail.com"><img src="https://img.shields.io/badge/-venkumj1234%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/b-venkatesh-b0b839121/"><img src="https://img.shields.io/badge/venkatesh-link-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/B-Venkatesh7210"><img src="https://img.shields.io/badge/B-Venkatesh7210-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/_venmus_"><img src="https://img.shields.io/badge/_venmus_-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
+
+- 🔭 I’m currently working as Tech Lead at 5ireHub Delhi and freelancer in blockchain projects.
+- ⚡ Founder of [RapAdds](https://rapadds.com) | Polygon [Fellow @2022](https://devfolio.co/projects/chirping-8b69) | Ex-[Router Protocol](https://www.routerprotocol.com/)
+- 🛠️ Solidity | Javascript | Typescript | Ethereum | ReactJS | NextJS | Flutter 
+- 📫 How to reach me: [Twitter - @venmus](https://twitter.com/_venmus_) , [LinkedIn - @venkatesh-link](https://www.linkedin.com/in/b-venkatesh-b0b839121/)
+- 🧠 Talent: Lyricist | Rapper | Music Composer | Artist | Dancer
+- ❤️ MUSIC IS ❤️ Check out my [Spotify](https://open.spotify.com/artist/4fz1mgqD3rwoAyV5IR1aTU)
+
+
+## ⚡ Technologies
+
+![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-yellow?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=dart)
+![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+
+## 🌼 GitHub Highlights:
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=B-Venkatesh7210&theme=dark&hide_border=true"/>
 </a>
-<a href="https://www.linkedin.com/in/venkatesh-venmus-b0b839121/">
-  <img align="left" alt="Aniket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/B-Venkatesh7210">
-  <img align="left" alt="Aniket's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/boddu.venkatesh.39/">
-  <img align="left" alt="Aniket's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC8gQROdn6l9mzX9Xx9yDQpg">
-  <img align="left" alt="Aniket's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<br/>
-<br/>
 
 
+## 🔥 Quick stats about me:
 
-- 🔭 I’m currently working on App and Web Development.
-- 🌱 I’m currently learning new skills like Blockchain Development, Solidity.
-- 🤔 I’m looking to work more on apps with custom backend using MongoDB.
-- 📫 How to reach me: [Twitter - @_Venky_VENMUS_ (https://twitter.com/_Venky_VENMUS_) , [Linkdein - @Venkatesh_VENMUS_(https://www.linkedin.com/in/venkatesh-venmus-b0b839121/)
-- ⚡ Fun fact: I love hiphop music, rapping, writing, poetry, quick-learning.
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Venkatesh's github stats](https://github-readme-stats.vercel.app/api?username=B-Venkatesh7210&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Venkatesh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Venkatesh7210&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-
-
-**Languages and Tools:**  
-
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
----
-
+<br></br>
+<p align="center">
+Show some ❤️ by starring some of the repositories!
+</p>
