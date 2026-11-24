@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Venkatesh 4Y6NMHDQ
+## 👋 Hey, I'm Venkatesh 
 
 <a  href="https://www.venmus.com/"><img src="https://img.shields.io/badge/venmus.com-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 <a href="mailto: venkumj1234@gmail.com"><img src="https://img.shields.io/badge/-venkumj1234%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/b-venkatesh-b0b839121/"><img src="https://img.shields.io/badge/venkatesh-link-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/B-Venkatesh7210"><img src="https://img.shields.io/badge/B-Venkatesh7210-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/_venmus_"><img src="https://img.shields.io/badge/_venmus_-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
